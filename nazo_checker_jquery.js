@@ -19,7 +19,6 @@ function AnswerCheck(form){
     })
     .done(function(resp){
       // answers/{send_text}が存在する
-      $("#play-correct").get(0).play();
       $(form).next(".result").text('');
       if(resp["type"] == "move"){  // 遷移
         window.location.href = resp["value"];
