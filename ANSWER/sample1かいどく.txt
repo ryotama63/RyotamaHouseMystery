@@ -1,5 +1,5 @@
 {
-  "type": "alert",
-  "value": "ねこです！",
-  "comment": "alertの場合はアラートで出したい文章を記述してください。"
+  "type": "move",
+  "value": "./KEY.png",
+  "comment": "moveの場合は遷移先を記述してください。絶対パスでも相対パスでも大丈夫です。"
 }
