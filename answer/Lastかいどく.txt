@@ -1,5 +1,5 @@
 {
   "type": "move",
-  "value": "./image/last_info_1.png",
+  "value": "./images/last_info_1.png",
   "comment": "moveの場合は遷移先を記述してください。絶対パスでも相対パスでも大丈夫です。"
 }
