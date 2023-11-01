@@ -1,9 +1,6 @@
 .nazoform {
   text-align: center;
   position: relative;
-  width: 100%;
-  max-width: 500px;
-  margin: 3.0rem auto;
 }
 .nazoform form {
   display: flex;
